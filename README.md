@@ -32,15 +32,15 @@ I bridge the gap between Hardware Design (RTL) and Physical Implementation, deve
 
 * **[VLSI Fault Simulator](https://github.com/SilviaB24/VLSI-Fault-Simulator)**
     * Python CLI tool for stuck-at fault simulation with Equivalence & Dominance collapsing.
-    * *Stack:* Python, Algorithms, ISCAS-85.
+    * *Stack:* Python, ISCAS-85.
 
 * **[Slack-Aware Leakage Optimizer](https://github.com/SilviaB24/Low-Power-Optimization-TCL)**
     * TCL automation script achieving >90% leakage reduction via dual-Vth swapping.
     * *Stack:* Tcl, Synopsys PrimeTime/DC.
 
 * **[Force-Directed HLS Scheduler](https://github.com/SilviaB24/Force-Driven-ML-RCS)**
-    * C++ implementation of Force-Directed Scheduling for High-Level Synthesis.
-    * *Stack:* C++, Graph Algorithms.
+    * Algorithmic implementation of Force-Directed Scheduling for High-Level Synthesis.
+    * *Stack:* C/C++, Graph Algorithms.
 
 ---
 ### ⚡ Fun Fact
