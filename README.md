@@ -1,7 +1,7 @@
 ### Hi there, I'm Silvia! 👋
 
 I am a Dual Degree Master's student (Politecnico di Torino & UIC) specializing in **Electronic Design Automation (EDA)** and **Physical Design**.
-I bridge the gap between Hardware Design (RTL) and Software Engineering (Algorithms), building tools to optimize chip performance.
+I bridge the gap between Hardware Design (RTL) and Physical Implementation, developing scripts and flows to optimize chip PPA (Power, Performance, Area).
 
 🔹 **Status:** STEM OPT Eligible (USA) - Available for Summer 2026 Internships.
 
@@ -14,13 +14,13 @@ I bridge the gap between Hardware Design (RTL) and Software Engineering (Algorit
 ![VHDL](https://img.shields.io/badge/-VHDL-blue?style=flat)
 ![Synopsys](https://img.shields.io/badge/-Synopsys_DC-purple?style=flat)
 ![Cadence](https://img.shields.io/badge/-Cadence_Innovus-red?style=flat)
-![Tcl](https://img.shields.io/badge/-Tcl_Scripting-blue?style=flat)
 
-**Software & Algorithms**
+**Scripting & Software**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Tcl](https://img.shields.io/badge/-Tcl_Scripting-blue?style=flat)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
