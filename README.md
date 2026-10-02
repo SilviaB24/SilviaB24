@@ -3,7 +3,7 @@
 I am a Dual Degree Master's student (Politecnico di Torino & UIC) specializing in **Electronic Design Automation (EDA)** and **Physical Design**.
 I bridge the gap between Hardware Design (RTL) and Physical Implementation, developing scripts and flows to optimize chip PPA (Power, Performance, Area).
 
-🔹 **Status:** STEM OPT Eligible (USA) - Available for Summer 2026 Internships.
+🔹 **Incoming:** Physical Design & Timing Engineer @ **NVIDIA** (Starting Feb 2027)
 
 ---
 
