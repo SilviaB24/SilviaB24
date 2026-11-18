@@ -1,49 +1,52 @@
+
 ### Hi there, I'm Silvia! 👋
 
-I am a Dual Degree Master's student (Politecnico di Torino & UIC) specializing in **Electronic Design Automation (EDA)** and **Physical Design**.
-I bridge the gap between Hardware Design (RTL) and Physical Implementation, developing scripts and flows to optimize chip PPA (Power, Performance, Area).
+Dual Degree Master's student at **Politecnico di Torino & University of Illinois Chicago**, focused on **Electronic Design Automation (EDA)**, **Physical Design**, and **Static Timing Analysis (STA)**.
 
-🔹 **Incoming:** Physical Design & Timing Engineer @ **NVIDIA** (Starting Feb 2027)
+🚀 **Incoming Physical Design & Timing Engineer @ NVIDIA** | Feb 2027
 
 ---
 
-### 🚀 Technical Stack
+### ⚙️ Tech Stack
 
-**EDA & Hardware**
-![Verilog](https://img.shields.io/badge/-Verilog-maroon?style=flat&logo=verilog)
-![VHDL](https://img.shields.io/badge/-VHDL-blue?style=flat)
-![Synopsys](https://img.shields.io/badge/-Synopsys_DC-purple?style=flat)
-![Cadence](https://img.shields.io/badge/-Cadence_Innovus-red?style=flat)
+**EDA & Hardware**  
+![Verilog](https://img.shields.io/badge/Verilog-800000?style=flat)
+![VHDL](https://img.shields.io/badge/VHDL-356CA5?style=flat)
+![Design Compiler](https://img.shields.io/badge/Design_Compiler-6941A5?style=flat)
+![PrimeTime](https://img.shields.io/badge/PrimeTime-6941A5?style=flat)
+![Innovus](https://img.shields.io/badge/Innovus-D32F2F?style=flat)
 
-**Scripting & Software**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Tcl](https://img.shields.io/badge/-Tcl_Scripting-blue?style=flat)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+**Scripting & Software**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tcl](https://img.shields.io/badge/Tcl-4466AA?style=flat)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ### 🛠 Selected Projects
 
-* **[DLX Processor (RTL-to-GDSII)](https://github.com/SilviaB24/DLX-Processor-Portfolio)**
-    * Full ASIC implementation of a 32-bit RISC CPU using 45nm Nangate technology.
-    * *Tools:* VHDL, Synopsys DC, Cadence Innovus.
+**[DLX Processor — RTL to GDSII](https://github.com/SilviaB24/DLX-Processor-Portfolio)**  
+Full ASIC implementation of a 32-bit RISC CPU in 45nm technology.  
+`VHDL` `Design Compiler` `Innovus`
 
-* **[VLSI Fault Simulator](https://github.com/SilviaB24/VLSI-Fault-Simulator)**
-    * Python CLI tool for stuck-at fault simulation with Equivalence & Dominance collapsing.
-    * *Stack:* Python, ISCAS-85.
+**[Slack-Aware Leakage Optimizer](https://github.com/SilviaB24/Low-Power-Optimization-TCL)**  
+Automated dual-Vth cell swapping, achieving >90% leakage reduction under timing constraints.  
+`Tcl` `PrimeTime` `Design Compiler`
 
-* **[Slack-Aware Leakage Optimizer](https://github.com/SilviaB24/Low-Power-Optimization-TCL)**
-    * TCL automation script achieving >90% leakage reduction via dual-Vth swapping.
-    * *Stack:* Tcl, Synopsys PrimeTime/DC.
+**[VLSI Fault Simulator](https://github.com/SilviaB24/VLSI-Fault-Simulator)**  
+Stuck-at fault simulation with equivalence and dominance fault collapsing.  
+`Python` `ISCAS-85`
 
-* **[Force-Directed HLS Scheduler](https://github.com/SilviaB24/Force-Driven-ML-RCS)**
-    * Algorithmic implementation of Force-Directed Scheduling for High-Level Synthesis.
-    * *Stack:* C/C++, Graph Algorithms.
+**[Force-Directed HLS Scheduler](https://github.com/SilviaB24/Force-Driven-ML-RCS)**  
+Force-directed scheduling for resource-constrained High-Level Synthesis.  
+`C/C++` `Graph Algorithms`
 
 ---
-### ⚡ Fun Fact
-When I'm not optimizing timing paths, I draw on the discipline from my background as a **Competitive Athlete** (Italian **Serie A Primavera** Soccer & Futsal Regional Champion). I bring the same resilience from the field to the lab.
 
-[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/silviabonenti)
+### ✨ Random Facts
+
+Former competitive soccer player (Italian Serie A Primavera; regional futsal champion). Occasionally found drawing, usually thinking about something else.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silviabonenti)
